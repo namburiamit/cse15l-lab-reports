@@ -22,6 +22,6 @@
 
 ```
 # code block
-print '3 backticks or'
-print 'indent 4 spaces'
+print '3 dogs'
+print 'indent 4 words'
 ```
