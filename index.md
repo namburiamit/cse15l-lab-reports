@@ -1,8 +1,11 @@
 # CSE 15L 
 ## Lab 2
 *This is in italics*
+
 **This is bold**
+
 [Link](https://github.com/)
+
 ![Image](https://c0.wallpaperflare.com/preview/734/721/142/skyscrapers-building-architecture-city.jpg)
 
 > This is a Blockquote
