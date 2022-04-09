@@ -6,6 +6,9 @@
 
 [Link](https://github.com/)
 
+[Lab Report 1](lab-report-1-week-2.html)
+
+
 ![Image](https://c0.wallpaperflare.com/preview/734/721/142/skyscrapers-building-architecture-city.jpg)
 
 > This is a Blockquote
