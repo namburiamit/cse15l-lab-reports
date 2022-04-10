@@ -27,11 +27,12 @@
     * *cd* is change directory which is used to change to a specific directory.
 
     * ```ls -lat``` is used to listing all the directories. *-lat* is for all
+    
         * -a shows all the files
         * -l shows long listing format.
         * -t shows files sorted by time.
 
-        ![image](commands1.png)
+        ![image](Commands1.png)
     
     * ```cat``` is used to show all the contents of the file written after cat.
 
