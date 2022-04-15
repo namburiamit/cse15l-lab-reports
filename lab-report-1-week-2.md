@@ -31,6 +31,7 @@
   * ![image](commands2.png)
     
 ---
+
 ## 4. Moving Files with scp
  * In this example, I am securely copying and pasting index.md file to the server.
  * Use ``` scp index.md cs15lsp22zz@ieng6.ucsd.edu:~/ ```
@@ -40,6 +41,7 @@
 
     ![image](scpcommandlatest.png)
 ---
+
 ## 5. Setting an SSH Key
 * SSH key is set up to login to the server without having to enter the password everytime you login or do something that requires a password.
  
@@ -52,9 +54,9 @@
      * After that, enter 
      ``` scp /Users/amitnamburi/.ssh/id_rsa.pub cs15lsp22ajd@ieng6.ucsd.edu:~/.ssh/authorized_keys```. Replace the use and username with your credentials.
      * Finally, you can login back again without entering password.
+     ![image](remoteconnectionsc.png)
 
 ---
-
 ## 6. Optimizing Remote Running
 
 * In order to make remote running more pleasant, we have a few tricks.
