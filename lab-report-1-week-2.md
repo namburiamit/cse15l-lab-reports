@@ -11,7 +11,7 @@
 
 ---
 
-2. Remotely Connecting
+## 2. Remotely Connecting
 
     * Connecting to SSH (secure shell) requires a terminal.
 
@@ -22,7 +22,7 @@
 
 ---
 
- 3. Trying Some Commands
+ ## 3. Trying Some Commands
 
     * *cd* is change directory which is used to change to a specific directory.
 
@@ -39,7 +39,7 @@
         ![image](commands2.png)
     
 ---
- 4. Moving Files with scp
+ ## 4. Moving Files with scp
 
     * In this example, I am securely copying and pasting index.md file to the server.
 
@@ -50,7 +50,7 @@
 
     ![image](scpcommandlatest.png)
 ---
-5. Setting an SSH Key
+## 5. Setting an SSH Key
     
     * SSH key is set up to login to the server without having to enter the password everytime you login or do something that requires a password.
  
@@ -66,7 +66,7 @@
 
 ---
 
-6. Optimizing Remote Running
+## 6. Optimizing Remote Running
 
 * In order to make remote running more pleasant, we have a few tricks.
 
