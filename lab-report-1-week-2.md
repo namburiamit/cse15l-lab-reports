@@ -2,7 +2,7 @@
 
 1. Installing VScode
 
-    * Download VScode from the website https://code.visualstudio.com/
+    * Download VScode from the website [Link](https://code.visualstudio.com/)
 
     * Set up the VScode based on your preference. (Sceenshot of my VScode setup)
 
