@@ -1,6 +1,6 @@
 # **Week 2 Lab Report**
 
-1. Installing VScode
+## 1. Installing VScode
 
     * Download VScode from the website [Link](https://code.visualstudio.com/)
 
