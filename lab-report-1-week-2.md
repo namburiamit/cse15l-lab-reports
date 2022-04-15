@@ -17,7 +17,7 @@
 
 ---
 
- ## 3. Trying Some Commands
+## 3. Trying Some Commands
 
   * *cd* is change directory which is used to change to a specific directory.
   * ```ls -lat``` is used to listing all the directories. *-lat* is for all
@@ -31,7 +31,7 @@
   * ![image](commands2.png)
     
 ---
- ## 4. Moving Files with scp
+## 4. Moving Files with scp
  * In this example, I am securely copying and pasting index.md file to the server.
  * Use ``` scp index.md cs15lsp22zz@ieng6.ucsd.edu:~/ ```
      in the terminal and then login securely to ssh.
