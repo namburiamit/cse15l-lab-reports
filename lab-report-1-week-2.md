@@ -15,22 +15,22 @@
 
     * Connecting to SSH (secure shell) requires a terminal.
 
-    * The first 9 characters for all the servers are the same 'cse15lsp22' and mine is 'cs15lsp22ajd'.
+    * The first 9 characters for all the servers are the same ```cse15lsp22``` and mine is ```cs15lsp22ajd```.
     * Typing ssh cs15lsp22ajd@ieng6.ucsd.edu in the terminal initiates the connection and after entering password, you're connected to the server securely.
 
         ![image](remoteconnectionsc.png)
 
 ---
 
-3. Trying Some Commands
+ 3. Trying Some Commands
 
     * *cd* is change directory which is used to change to a specific directory.
 
     * ```ls -lat``` is used to listing all the directories. *-lat* is for all
     
-        * -a shows all the files
-        * -l shows long listing format.
-        * -t shows files sorted by time.
+        * ```-a``` shows all the files
+        * ```-l``` shows long listing format.
+        * ```-t``` shows files sorted by time.
 
         ![image](Commands1.png)
     
@@ -39,7 +39,7 @@
         ![image](commands2.png)
     
 ---
-4. Moving Files with scp
+ 4. Moving Files with scp
 
     * In this example, I am securely copying and pasting index.md file to the server.
 
@@ -61,7 +61,7 @@
      
      * Then login to your ssh server and enter ``` mkdir .ssh``` and logout.
      * After that, enter 
-     ``` scp /Users/amitnamburi/.ssh/id_rsa.pub cs15lsp22ajd@ieng6.ucsd.edu:~/.ssh/authorized_keys ```. Replace the use and username with your credentials.
+     ``` scp /Users/amitnamburi/.ssh/id_rsa.pub cs15lsp22ajd@ieng6.ucsd.edu:~/.ssh/authorized_keys```. Replace the use and username with your credentials.
      * Finally, you can login back again without entering password.
 
 ---
