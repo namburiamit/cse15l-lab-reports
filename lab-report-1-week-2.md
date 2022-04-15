@@ -13,7 +13,7 @@
 * The first 9 characters for all the servers are the same ```cse15lsp22``` and mine is ```cs15lsp22ajd```.
 * Typing ssh cs15lsp22ajd@ieng6.ucsd.edu in the terminal initiates the connection and after entering password, you're connected to the server securely.
 
-        ![image](remoteconnectionsc.png)
+     ![image](remoteconnectionsc.png)
 
 ---
 
