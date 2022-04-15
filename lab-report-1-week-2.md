@@ -2,21 +2,16 @@
 
 ## 1. Installing VScode
 
-    * Download VScode from the website [Link](https://code.visualstudio.com/)
-
-    * Set up the VScode based on your preference. (Sceenshot of my VScode setup)
-
-
-        ![image](VScodesc.png)
+* Download VScode from the website [Link](https://code.visualstudio.com/)
+* * Set up the VScode based on your preference. (Sceenshot of my VScode setup)
+* ![image](VScodesc.png)
 
 ---
 
 ## 2. Remotely Connecting
-
-    * Connecting to SSH (secure shell) requires a terminal.
-
-    * The first 9 characters for all the servers are the same ```cse15lsp22``` and mine is ```cs15lsp22ajd```.
-    * Typing ssh cs15lsp22ajd@ieng6.ucsd.edu in the terminal initiates the connection and after entering password, you're connected to the server securely.
+* Connecting to SSH (secure shell) requires a terminal.
+* The first 9 characters for all the servers are the same ```cse15lsp22``` and mine is ```cs15lsp22ajd```.
+* Typing ssh cs15lsp22ajd@ieng6.ucsd.edu in the terminal initiates the connection and after entering password, you're connected to the server securely.
 
         ![image](remoteconnectionsc.png)
 
