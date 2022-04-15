@@ -66,7 +66,7 @@
 
 ---
 
-Optimizing Remote Running
+6. Optimizing Remote Running
 
 * In order to make remote running more pleasant, we have a few tricks.
 
