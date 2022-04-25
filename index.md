@@ -1,11 +1,8 @@
 # CSE 15L 
-## Lab 2
-*This is in italics*
+## Lab Report
 
-**This is bold**
 
 [Lab Report 1](lab-report-1-week-2.html)
-[Lab Report 1](https://namburiamit.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 [Lab Report 2](lab-report-2-week3.md)
 
 
