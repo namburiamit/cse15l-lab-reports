@@ -10,7 +10,7 @@
 
 ---
 
- ## 2 Link to the test file for a failure-inducing input that prompted you to make that change
+## 2 Link to the test file for a failure-inducing input that prompted you to make that change
 
 * [Link](https://github.com/namburiamit/markdown-parser/blob/main/test2-file.md)
 
@@ -41,7 +41,7 @@
 
 ---
 
- ## 2 Link to the test file for a failure-inducing input that prompted you to make that change
+## 2 Link to the test file for a failure-inducing input that prompted you to make that change
 
 * [Link](https://github.com/namburiamit/markdown-parser/blob/main/testfile-test2.md)
 
@@ -72,7 +72,7 @@
 
 ---
 
- ## 2 Link to the test file for a failure-inducing input that prompted you to make that change
+## 2 Link to the test file for a failure-inducing input that prompted you to make that change
 
 * [Link](https://github.com/namburiamit/markdown-parser/blob/main/testfile-test3.md)
 
