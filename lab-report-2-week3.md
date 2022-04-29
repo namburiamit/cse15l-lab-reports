@@ -12,7 +12,7 @@
 
 ## 2 Link to the test file for a failure-inducing input that prompted you to make that change
 
-* [Link](https://github.com/namburiamit/markdown-parser/blob/main/test2-file.md)
+* [Link](https://github.com/namburiamit/markdown-parser/blob/main/test-file2.md)
 
 * This is the link to the test file that causes an  failure due to a failure-inducing input.
 * It has a space at the end which causes an infinite loop.
