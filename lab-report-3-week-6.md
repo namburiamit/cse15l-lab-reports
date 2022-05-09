@@ -54,7 +54,7 @@ with just a simple command -
 * [Link](https://github.com/namburiamit/markdown-parser/commit/a9cc5ff279f59e46b58604d6cc9e7451300f6ea9) - This link shows the resulting commit.
 ---
 
-## Copy whole directories with scp -r
+## Copy whole directories with ```scp -r```
 
 * Task 1- Copying the whole markdown-parse file with one command.
 
