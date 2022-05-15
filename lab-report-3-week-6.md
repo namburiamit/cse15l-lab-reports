@@ -71,8 +71,9 @@ with just a simple command -
 
 
 * Task 3 - Combining all the commands using ```;``` and all the tests passed.
-* ![image](sstask31.png)
-* ![image](sstask32.png)
+* ![image](required1.png)
+* ![image](required2.png)
 
+* I cropped out the middle part where more files are copied.
 * All the tests have passed using a single command!
 ---
