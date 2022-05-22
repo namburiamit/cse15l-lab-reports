@@ -55,7 +55,8 @@ Question - Do you think there is a small (<10 lines) code change that will make 
 * Yes, I think with a small code change, we can make the MarkdownParse to work for snippet 1.
 
 * If there is a backtick (`) within the square brackets of the link, we should consider that to be a part of the link's name rather than a string beginning/ ending.
---- 
+
+
 ---
 # Snippet 2
 
@@ -98,7 +99,7 @@ Question - Do you think there is a small (<10 lines) code change that will make 
 * There is definately a solution to this problem, but it can't be lesser than 10 lines.
 
 * We must check multiple scenarios with open and closed brackets and maybe ignore all the brackets in between the first and last bracket. 
----
+
 ---
 
 # Snippet 3
@@ -163,5 +164,6 @@ Question - Do you think there is a small (<10 lines) code change that will make 
 * Yes, I think with a small code change, we can make the MarkdownParse to work for snippet 3.
 
 * We can check for new lines between the title and links and make sure to consider that case while checking for the brackets.
----
+
+
 ---
