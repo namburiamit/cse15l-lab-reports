@@ -56,7 +56,7 @@ Question - Do you think there is a small (<10 lines) code change that will make 
 
 * If there is a backtick (`) within the square brackets of the link, we should consider that to be a part of the link's name rather than a string beginning/ ending.
 
-
+End of Snippet 1
 ---
 # Snippet 2
 
@@ -100,6 +100,7 @@ Question - Do you think there is a small (<10 lines) code change that will make 
 
 * We must check multiple scenarios with open and closed brackets and maybe ignore all the brackets in between the first and last bracket. 
 
+End of Snippet 2
 ---
 
 # Snippet 3
@@ -166,4 +167,5 @@ Question - Do you think there is a small (<10 lines) code change that will make 
 * We can check for new lines between the title and links and make sure to consider that case while checking for the brackets.
 
 
+End of Snippet 3
 ---
