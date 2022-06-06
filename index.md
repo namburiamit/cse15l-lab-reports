@@ -6,6 +6,8 @@
 [Lab Report 2](lab-report-2-week3.md)
 [Lab Report 3](lab-report-3-week-6.md)
 [Lab Report 4](lab-report-4-week-8.md)
+[Lab Report 5](lab-report-5-week-10.md)
+
 
 ---
 ![Image](https://c0.wallpaperflare.com/preview/734/721/142/skyscrapers-building-architecture-city.jpg)
